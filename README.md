@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**eimunas/eimunas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Eimantas, and I'm a software engineer!
 
-Here are some ideas to get you started:
+🎨 Frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Frameworks: React, Vue
+    Languages: TypeScript, JavaScript
+    Styling & UI: Tailwind, shadcn/ui
+    Practices: Responsive Design
+
+⚙ Backend
+
+    Frameworks: Node.js, Express, NestJS
+    Databases: Postgres, MongoDB
+    ORMs: TypeORM
+
+💼 Workflow
+
+    DevOps & CI/CD: Git, GitHub, Docker
+    Hosting: AWS, Terraform
+    Media: Figma
+    Operations: Teams
