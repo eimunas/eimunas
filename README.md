@@ -12,7 +12,6 @@ My name is Eimantas, and I'm a software engineer!
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)  
 ![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)  
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 
 ## 💻 Languages  
