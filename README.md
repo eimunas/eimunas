@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Eimantas, and I'm a software engineer, currently pursuing bachelor's degree at Saxion University of Applied Sciences (3rd year). 
+### My name is Eimantas, and I'm a software engineer, currently pursuing bachelor's degree at Saxion University of Applied Sciences (3rd year). 
 
 ## 🛠️ Technologies  
   
