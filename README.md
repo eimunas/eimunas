@@ -5,6 +5,7 @@ My name is Eimantas, and I'm a software engineer, currently pursuing bachelor's 
 ## 🛠️ Technologies  
   
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)  
 ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css) 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
